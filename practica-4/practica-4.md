@@ -1,0 +1,2 @@
+# Práctica 4
+La práctica 4 consiste en la creación de un Notebook en el que demostremos el manejo de funciones de visualización de datos que incluyen las librerías de Python especializadas en su visualización, como pandas y matplotlib. En mi caso, el conjunto de datos elegido es un archivo JSON que recoge una encuesta a distintos ciudadanos europeos sobre los sectores de inversión que consideran prioritarios en la política de la Unión.   
