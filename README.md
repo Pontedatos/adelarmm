@@ -50,12 +50,15 @@ La tarea que pone el broche final a la asignatura supone una continuación de la
 ### Metodología 
 
 
-### Resumen de lo aprendido
+#### Creación del repositorio en Pontedatos
 
-•	Instalación de un programa de emulación de la terminal
-•	Configuración del programa
-•	Configuración de un programa de edición de texto
-•	Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
-•	Versión del lenguaje de SHELL utilizado.
-•	Valor de la variable de entorno PATH.
-•	Comandos utilizados y ejemplos.
+Para esta entrega final se nos requería subir todos los archivos sin carpetas a un nuevo repositorio que crearíamos en la organización *Pontedatos*, propiedad del profesor. Para ello desde mi cuenta de Github, y con permiso aceptado del profesor para acceder a la organización, pude crear este repositorio con mi nombre de usuario. A partir de entonces todo mi trabajo se realizó desde la terminal.
+
+#### Subida de archivos
+
+Con todos los archivos que necesitaba subir descargados, el punto de partida fue clonar el repositorio nuevo en mi directorio local utilizando los comandos de la terminal. Con `cd` accedí al escritorio, el sitio en el que quise clonar "adelarmm". Una vez allí hice `git clone` junto a la dirección URL del repositorio en cuestión y así ya pude empezar a mover los archivos que deseaba desde mi ordenador hasta el repositorio Git. Después de listar con `ls` la carpeta en la que los tenía para ver si estaba todo correcto, comencé a moverlos a la carpeta del repositorio con el comando `mv`. Una vez hecho el traslado, listo en el repositorio y compruebo que está todo pasado. Ejecuté el comando `git add` para añadir, en efecto, los archivos. Con `git commit`comiteé los cambios y añadí un breve texto descriptivo del formato del conjunto de los archivos. Finalmente, con `git status` meto mis credenciales (usuario y token generado en el momento) y la subida ya está efectuada. 
+
+
+#### Archivos README.md y resumen.md
+
+Una vez con todos los archivos de las prácticas previas dentro de la carpeta, he procedido a editar el "README.md" que explica todos los archivos que guarda este repositorio y esta misma explicación metodológica sobre cómo subirlos, a través de `nano`, el editor de texto de la terminal. También he creado el archivo "resumen.md" donde debíamos especificar todo lo aprendido durante el curso.
