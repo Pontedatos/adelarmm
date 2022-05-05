@@ -2,7 +2,7 @@
 ## En este repositorio “adelarmm” dentro de la organización “PonteDatos” se encuentran las prácticas elaboradas a lo largo del curso en la asignatura Periodismo de Datos. 
 
 ### Índice de contenidos
-En este repositorio se incluyen las prácticas de la asignatura de Periodismo de Datos impartida en el doble grado de Periodismo y Humanidades en la universidad Carlos III de Madrid. Contiene:
+En este repositorio se incluyen las prácticas de la alumna Adela Riesco Miranda, pertenecientes a la asignatura de Periodismo de Datos impartida en el doble grado de Periodismo y Humanidades en la universidad Carlos III de Madrid. Contiene:
 
  
 #### Práctica 1
@@ -62,3 +62,7 @@ Con todos los archivos que necesitaba subir descargados, el punto de partida fue
 #### Archivos README.md y resumen.md
 
 Una vez con todos los archivos de las prácticas previas dentro de la carpeta, he procedido a editar el "README.md" que explica todos los archivos que guarda este repositorio y esta misma explicación metodológica sobre cómo subirlos, a través de `nano`, el editor de texto de la terminal. También he creado el archivo "resumen.md" donde debíamos especificar todo lo aprendido durante el curso.
+
+#### Creación de la página web
+
+Para este paso final es necesario utilizar la funcionalidad "Pages" de Github, que genera una web con el contenido dentro de cada repositorio. Para activar esta opción, debimos hacerlo a través de la url: https://github.com/Pontedatos/nombre-repositorio/settings/pages. Elegimos que la fuente en la rama "main" en la carpeta "/root". 
